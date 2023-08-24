@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXFpcHE2d2pzZXZ2eXljMGt3cndoNmJkYXZzeWdpbG0xempwM3JtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/UUBYepX4WSiNFf8GOT/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="www.linkedin.com/in/sebastián-ignacio-toro-severino-06881a1a1">
+    <a href="www.linkedin.com/in/sebastián-ignacio-toro-severino-06881a1a1" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="mailto:sebastian.toro1@mail.udp.cl">
