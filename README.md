@@ -4,7 +4,7 @@
     <a href="www.linkedin.com/in/sebastián-ignacio-toro-severino-06881a1a1" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:sebastian.toro1@mail.udp.cl">
+    <a href="mailto:seb.toro.severino@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
 </div>
@@ -28,7 +28,7 @@ Inicié como desarrollador Full-Stack y en estos momentos me encuentro en un pro
 
 - ⚡En mi tiempo libre me gusta leer, escuchar música, ver F1, armar legos, jugar videojuegos y trabajar en proyectos personales de desarrollo de software.
 
-- **¿Cómo puedes encontrarme?** [LinkedIn](www.linkedin.com/in/sebastián-ignacio-toro-severino-06881a1a1) / [Gmail](mailto:sebastian.toro1@mail.udp.cl)
+- **¿Cómo puedes encontrarme?** [LinkedIn](www.linkedin.com/in/sebastián-ignacio-toro-severino-06881a1a1) / [Gmail](mailto:seb.toro.severino@gmail.com)
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
