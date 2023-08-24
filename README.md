@@ -28,6 +28,7 @@ Inicié como desarrollador Full-Stack y en estos momentos me encuentro en un pro
 
 - ⚡En mi tiempo libre me gusta leer, escuchar música, ver F1, armar legos, jugar videojuegos y trabajar en proyectos personales de desarrollo de software.
 
+- **¿Cómo puedes encontrarme?** [LinkedIn](www.linkedin.com/in/sebastián-ignacio-toro-severino-06881a1a1) / [Gmail](mailto:sebastian.toro1@mail.udp.cl)
 ---
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
