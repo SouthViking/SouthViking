@@ -24,7 +24,7 @@ Inicié como desarrollador Full-Stack y en estos momentos me encuentro en un pro
 
 - **Trabajos previos**: **Universidad Diego Portales** 🏫 (desarrollador Full-Stack freelancer), **Mint Mobile** 📞 (desarrollador Full-Stack freelancer) y **Evernote** 🐘🟢 (desarrollador Full-Stack).
 
-- 📚 Actualmente motivado por profundizar mi conocimiento de tecnologías de Back-End y leyendo diversos libros sobre arquitectura de software, buenas prácticas para escribir código y sobre sistemas distribuidos.
+- 📚 Actualmente me encuentro motivado por profundizar mi conocimiento de tecnologías de Back-End y leyendo diversos libros sobre arquitectura de software, buenas prácticas para escribir código y sobre sistemas distribuidos.
 
 - ⚡En mi tiempo libre me gusta leer, escuchar música, ver F1, armar legos, jugar videojuegos y trabajar en proyectos personales de desarrollo de software.
 
